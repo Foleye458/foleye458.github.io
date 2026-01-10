@@ -1,4 +1,4 @@
-# Errol Foley – Computer Science ePortfolio
+# Foleye458 – Computer Science ePortfolio
 
 Welcome to my ePortfolio for CS 499.
 
