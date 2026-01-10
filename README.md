@@ -12,11 +12,11 @@ Welcome to my ePortfolio for CS 499.
 
 ## Projects
 
-### 🔐 Artemis Financial Secure Coding Project
+### Artemis Financial Secure Coding Project
 Secure software application demonstrating encryption, vulnerability mitigation, and secure coding practices.  
 [View Project Repository](https://github.com/Foleye458/Secure-Coding-) 
 
-### 📊 Grazioso Salvare MongoDB Dashboard
+### Grazioso Salvare MongoDB Dashboard
 Interactive dashboard using Python and MongoDB to support data-driven decision making.  
 [View Project Repository](https://github.com/Foleye458/Client-Server-Development) 
 
