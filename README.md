@@ -1,4 +1,3 @@
-# foleye458.github.io
 # Errol Foley – Computer Science ePortfolio
 
 Welcome to my ePortfolio for CS 499.
