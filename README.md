@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
-# Foleye458 – Computer Science ePortfolio
+# Errol Foley – Computer Science ePortfolio
 
 Welcome to my ePortfolio for CS 499.
 
