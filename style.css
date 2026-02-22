@@ -4,12 +4,6 @@
   box-sizing: border-box;
 }
 
-#about {
-  padding: 100px 20px;
-  background: url("Peace.jpg") center/cover no-repeat;
-  color: white;
-}
-
 body {
   font-family: 'Inter', sans-serif;
   background: #f9fafb;
@@ -51,6 +45,13 @@ nav a {
 .hero p {
   margin: 15px 0;
   font-size: 1.2rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+  background: url("Peace.jpg") center/cover no-repeat;
+  color: white;
 }
 
 .btn {
