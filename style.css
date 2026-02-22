@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+#about {
+  padding: 100px 20px;
+  background: url("Peace.jpg") center/cover no-repeat;
+  color: white;
+}
+
 body {
   font-family: 'Inter', sans-serif;
   background: #f9fafb;
@@ -102,12 +108,6 @@ nav a {
   border-radius: 12px;
   width: 260px;
   box-shadow: 0 6px 15px rgba(0,0,0,0.06);
-}
-
-#about {
-  padding: 100px 20px;
-  background: url("Peace.jpg") center/cover no-repeat;
-  color: white;
 }
 
 /* FOOTER */
