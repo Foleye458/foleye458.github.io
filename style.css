@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+
+
 body {
   font-family: 'Inter', sans-serif;
   background: #f9fafb;
@@ -79,6 +81,23 @@ nav a {
 .section h2 {
   font-family: 'Poppins', sans-serif;
   margin-bottom: 20px;
+}
+
+#about {
+  padding: 100px 20px;
+}
+
+/* ABOUT */
+.about-content {
+  max-width: 750px;
+  margin: 30px auto 0;
+  text-align: left;
+}
+
+.about-content p {
+  margin-bottom: 20px;
+  line-height: 1.7;
+  font-size: 1.05rem;
 }
 
 /* SKILLS */
