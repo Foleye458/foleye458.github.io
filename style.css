@@ -104,6 +104,12 @@ nav a {
   box-shadow: 0 6px 15px rgba(0,0,0,0.06);
 }
 
+#about {
+  padding: 100px 20px;
+  background: url("Peace.jpg") center/cover no-repeat;
+  color: white;
+}
+
 /* FOOTER */
 footer {
   text-align: center;
