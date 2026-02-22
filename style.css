@@ -64,6 +64,15 @@ nav a {
   text-decoration: none;
 }
 
+.blue-highlight {
+  background: #2563eb;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
 /* SECTIONS */
 .section {
   padding: 80px 20px;
