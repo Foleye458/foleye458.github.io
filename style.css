@@ -4,8 +4,6 @@
   box-sizing: border-box;
 }
 
-
-
 body {
   font-family: 'Inter', sans-serif;
   background: #f9fafb;
@@ -52,7 +50,7 @@ nav a {
 .hero {
   text-align: center;
   padding: 120px 20px;
-  background: url("Peace.jpg") center/cover no-repeat;
+  background: url("Sunset.jpg") center/cover no-repeat;
   color: white;
 }
 
