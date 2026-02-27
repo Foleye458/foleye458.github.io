@@ -9,6 +9,8 @@ Welcome to my ePortfolio for CS 499.
 
   Each course introduced new challenges and opportunities to learn, allowing me to explore different specialties within the field and better understand where my strengths and interests lie. Programming, in particular, has been both challenging and rewarding. Learning how to transform ideas into functional applications—and spending time debugging and refining them—has strengthened my problem-solving skills and persistence. These experiences have helped shape my growth as a developing professional in computer science.
 
+file:///C:/Users/foley/Downloads/Recording%20%2310.mp4
+
 ## Projects
 
 ### Artemis Financial Secure Coding Project
